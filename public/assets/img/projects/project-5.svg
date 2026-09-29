@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8B6244"/>
-      <stop offset="1" stop-color="#3E2A1E"/>
+      <stop offset="0" stop-color="#5C6F84"/>
+      <stop offset="1" stop-color="#1C2733"/>
     </linearGradient>
   </defs>
   <rect width="800" height="600" fill="url(#g)"/>
@@ -20,9 +20,9 @@
 <path d="M0 501 Q 67 487 133 501 Q 200 515 267 501 Q 333 515 400 501 Q 467 515 533 501 Q 600 487 667 501 Q 733 515 800 501 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
 <path d="M0 545 Q 67 551 133 545 Q 200 551 267 545 Q 333 539 400 545 Q 467 539 533 545 Q 600 551 667 545 Q 733 539 800 545 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
 <path d="M0 579 Q 67 567 133 579 Q 200 591 267 579 Q 333 591 400 579 Q 467 591 533 579 Q 600 567 667 579 Q 733 591 800 579 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.3"/>
-  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#1976D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
     <path d="M-80 70 h40 v-35 h40 v-35 h40 v-35 h40"/><path d="M-80 70 v-30 M80 -35 v-40"/>
   </g>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">ESCALERA</text>
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#E8EDF2" letter-spacing="2">BARANDAL</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A9B8C8">Reemplaza esta imagen · 800×600</text>
 </svg>

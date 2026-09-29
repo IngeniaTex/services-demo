@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8B6244"/>
-      <stop offset="1" stop-color="#3E2A1E"/>
+      <stop offset="0" stop-color="#5C6F84"/>
+      <stop offset="1" stop-color="#1C2733"/>
     </linearGradient>
   </defs>
   <rect width="800" height="600" fill="url(#g)"/>
@@ -20,9 +20,9 @@
 <path d="M0 481 Q 67 492 133 481 Q 200 470 267 481 Q 333 470 400 481 Q 467 470 533 481 Q 600 470 667 481 Q 733 470 800 481 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.0"/>
 <path d="M0 547 Q 67 523 133 547 Q 200 523 267 547 Q 333 571 400 547 Q 467 571 533 547 Q 600 523 667 547 Q 733 523 800 547 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.5"/>
 <path d="M0 579 Q 67 593 133 579 Q 200 593 267 579 Q 333 593 400 579 Q 467 564 533 579 Q 600 593 667 579 Q 733 593 800 579 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.0"/>
-  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#1976D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
     <path d="M-80 70 v-120 M80 70 v-120 M-80 -50 q80 -50 160 0"/><path d="M-50 70 v-100 M-20 70 v-115 M20 70 v-115 M50 70 v-100"/>
   </g>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">PORTÓN Y REJA</text>
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#E8EDF2" letter-spacing="2">PORTÓN Y REJA</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A9B8C8">Reemplaza esta imagen · 800×600</text>
 </svg>

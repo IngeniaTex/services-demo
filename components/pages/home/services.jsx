@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import site from "@/components/data/site";
 import servicesData from "@/components/data/services-data";
 import SectionTitle from "@/components/common/section-title";
 
@@ -12,8 +13,8 @@ const Services = () => {
     <section className="services__area section-padding" id="servicios">
       <div className="container">
         <SectionTitle
-          subtitle="Nuestros servicios"
-          title="Todo lo que tu casa o negocio necesita, en un solo taller"
+          subtitle={site.services.subtitle}
+          title={site.services.title}
         />
         <div className="row gy-4">
           {servicesData.map((service) => (

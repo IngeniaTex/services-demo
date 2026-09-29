@@ -7,7 +7,8 @@ Guía para Claude Code al trabajar en este repositorio.
 Plantilla de landing page de una sola página para negocios de oficios (carpintería, herrería,
 construcción, remodelación…). Next.js 14 App Router, **JavaScript (`.jsx`), sin TypeScript, sin
 backend**. Bootstrap 5 solo para grid/utilidades; los estilos son propios (`public/assets/css/style.css`)
-con paleta café/naranja. Contenido demo ficticio: "Taller Roble" (Mérida, Yucatán). Idioma: español (MX).
+con paleta acero/azul industrial (variables `--steel-*`, `--silver-*`, `--primary-*`). Contenido demo ficticio:
+"Taller de Herrería", taller de aluminio y herrería (Mérida, Yucatán). Idioma: español (MX).
 
 Sigue las convenciones del sitio Ingeniatex del que deriva: componentes funcionales con
 `export default`, un componente por archivo, nombres kebab-case, clases BEM por sección

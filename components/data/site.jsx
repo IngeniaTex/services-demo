@@ -9,11 +9,11 @@ const whatsappMessage = "Me interesa cotizar esa pagina web para mi negocio";
 
 const site = {
   brand: {
-    name: "Taller Roble",
-    tagline: "Carpintería · Herrería · Construcción",
-    siteTitle: "Taller Roble | Carpintería, Herrería y Construcción en Mérida",
+    name: "Taller de Herrería",
+    tagline: "Aluminio · Herrería · Vidrio",
+    siteTitle: "Taller de Herrería | Aluminio, Herrería y Vidrio en Mérida",
     description:
-      "Taller Roble: carpintería a la medida, herrería, construcción y remodelación en Mérida, Yucatán. Presupuesto sin costo, garantía por escrito y entrega puntual.",
+      "Taller de Herrería: ventanas y canceles de aluminio, puertas de cristal, portones, rejas y herrería en Mérida, Yucatán. Presupuesto sin costo, garantía por escrito e instalación puntual.",
     logo: "/assets/img/logo/logo.svg",
     logoLight: "/assets/img/logo/logo-light.svg",
     foundedYear: 2009,
@@ -25,8 +25,8 @@ const site = {
     whatsappNumber,
     whatsappMessage,
     whatsapp: `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`,
-    email: "contacto@tallerroble.mx",
-    address: "Calle 60 #123, Col. Centro, Mérida, Yucatán",
+    email: "contacto@tallerdeherreria.mx",
+    address: "Calle 42 #310, Col. Chuburná de Hidalgo, Mérida, Yucatán",
     serviceArea: "Mérida y alrededores (Progreso, Kanasín, Umán, Conkal)",
     hours: [
       { days: "Lunes a viernes", time: "8:00 – 18:00" },
@@ -51,11 +51,16 @@ const site = {
     { label: "Contacto", href: "#cotizar" },
   ],
 
+  services: {
+    subtitle: "Nuestros servicios",
+    title: "Todo en aluminio, vidrio y herrería, en un solo taller",
+  },
+
   hero: {
-    subtitle: "Más de 15 años construyendo confianza",
-    title: "Carpintería, herrería y construcción hechas a la medida",
+    subtitle: "Más de 15 años trabajando el metal",
+    title: "Aluminio, vidrio y herrería a la medida de tu casa o negocio",
     text:
-      "Fabricamos, instalamos y construimos con materiales de calidad y acabados que duran. Visitamos tu casa o negocio, te damos presupuesto sin costo y cumplimos la fecha de entrega.",
+      "Fabricamos e instalamos ventanas, canceles, puertas, portones y estructuras con perfiles de primera y acabados que resisten el clima de Yucatán. Medimos sin costo y cumplimos la fecha de entrega.",
     primaryCta: { label: "Solicitar presupuesto", href: "#cotizar" },
     image: "/assets/img/hero/hero.svg",
     badge: { value: "+15", label: "años de experiencia" },
@@ -63,7 +68,7 @@ const site = {
   },
 
   stats: [
-    { value: "+850", label: "Proyectos entregados", icon: "fas fa-hammer" },
+    { value: "+1,200", label: "Instalaciones realizadas", icon: "fas fa-tools" },
     { value: "+15", label: "Años de experiencia", icon: "fas fa-medal" },
     { value: "100%", label: "Garantía por escrito", icon: "fas fa-file-signature" },
     { value: "24 h", label: "Respuesta a cotizaciones", icon: "fas fa-stopwatch" },
@@ -71,17 +76,17 @@ const site = {
 
   about: {
     subtitle: "Sobre nosotros",
-    title: "Un taller familiar con oficio, palabra y herramienta",
+    title: "Un taller familiar de aluminio y herrería con palabra",
     text:
-      "Somos un equipo de maestros carpinteros, herreros y albañiles con más de 15 años trabajando en Mérida. Nos gusta el trabajo bien hecho: medimos, cotizamos claro, fabricamos con materiales de primera y entregamos cuando dijimos.",
+      "Somos un equipo de aluminieros, vidrieros y herreros con más de 15 años trabajando en Mérida. Fabricamos en nuestro propio taller, cotizamos claro, usamos perfiles y cristales certificados e instalamos cuando dijimos.",
     points: [
       "Presupuesto detallado sin costo",
-      "Materiales de calidad y proveedores locales",
+      "Perfiles de aluminio y cristal certificados",
       "Garantía por escrito en cada trabajo",
-      "Limpieza y orden al terminar la obra",
+      "Instalación limpia y sellado profesional",
     ],
     images: ["/assets/img/about/about-1.svg", "/assets/img/about/about-2.svg"],
-    owner: { name: "Juan Pérez", role: "Fundador y maestro carpintero" },
+    owner: { name: "Jorge Canché", role: "Fundador y maestro herrero" },
     cta: { label: "Conoce nuestros servicios", href: "#servicios" },
   },
 
@@ -91,7 +96,7 @@ const site = {
     steps: [
       {
         title: "Visita y medición",
-        text: "Vamos a tu domicilio o negocio, tomamos medidas y escuchamos lo que necesitas.",
+        text: "Vamos a tu domicilio o negocio, tomamos medidas exactas de cada vano y te mostramos muestras de perfiles y cristales.",
         icon: "fas fa-ruler-combined",
       },
       {
@@ -100,13 +105,13 @@ const site = {
         icon: "fas fa-file-invoice-dollar",
       },
       {
-        title: "Fabricación u obra",
-        text: "Trabajamos en taller o en sitio con materiales de calidad y avances por foto.",
+        title: "Fabricación en taller",
+        text: "Cortamos, armamos y soldamos en nuestro taller con maquinaria de precisión y te mandamos avances por foto.",
         icon: "fas fa-tools",
       },
       {
         title: "Instalación y entrega",
-        text: "Instalamos, limpiamos y te entregamos con garantía por escrito.",
+        text: "Instalamos, sellamos, limpiamos y te entregamos con garantía por escrito.",
         icon: "fas fa-clipboard-check",
       },
     ],
@@ -114,14 +119,14 @@ const site = {
 
   whyUs: {
     subtitle: "¿Por qué elegirnos?",
-    title: "Trabajo serio, precio justo y entrega puntual",
+    title: "Acabados que duran, precio justo y entrega puntual",
     text:
-      "Sabemos que contratar a alguien para tu casa o negocio es cuestión de confianza. Por eso trabajamos con contrato, fechas claras y comunicación constante.",
+      "El sol, la humedad y la brisa salina de Yucatán desgastan cualquier material. Por eso usamos perfiles anodizados, pintura anticorrosiva y herrajes inoxidables, con contrato y fechas claras.",
     features: [
       { title: "Garantía por escrito", text: "Cada trabajo incluye garantía en materiales y mano de obra.", icon: "fas fa-shield-alt" },
       { title: "Presupuesto sin costo", text: "Visitamos, medimos y cotizamos sin compromiso.", icon: "fas fa-hand-holding-usd" },
-      { title: "Materiales de calidad", text: "Maderas secas, acero de calibre correcto y concreto certificado.", icon: "fas fa-gem" },
-      { title: "Cumplimos fechas", text: "Acordamos un calendario y te avisamos de cada avance.", icon: "fas fa-calendar-check" },
+      { title: "Materiales de calidad", text: "Aluminio anodizado, cristal templado certificado y acero del calibre correcto.", icon: "fas fa-gem" },
+      { title: "Cumplimos fechas", text: "Acordamos un calendario de fabricación e instalación y te avisamos de cada avance.", icon: "fas fa-calendar-check" },
     ],
     image: "/assets/img/why-us/why-us.svg",
     highlight: { value: "98%", label: "de clientes nos recomiendan" },
@@ -132,12 +137,12 @@ const site = {
     title: "Trabajos que hablan por nosotros",
     // category debe coincidir con un id de services-data.jsx
     items: [
-      { title: "Cocina integral en cedro", category: "carpinteria", location: "Col. México Norte", image: "/assets/img/projects/project-1.svg" },
-      { title: "Portón automático y reja perimetral", category: "herreria", location: "Fracc. Las Américas", image: "/assets/img/projects/project-2.svg" },
-      { title: "Ampliación de segunda planta", category: "construccion", location: "Col. Montes de Amé", image: "/assets/img/projects/project-3.svg" },
-      { title: "Closet vestidor a la medida", category: "carpinteria", location: "Temozón Norte", image: "/assets/img/projects/project-4.svg" },
-      { title: "Escalera de herrería con madera", category: "herreria", location: "Col. Centro", image: "/assets/img/projects/project-5.svg" },
-      { title: "Remodelación de baño completo", category: "remodelacion", location: "Fracc. Altabrisa", image: "/assets/img/projects/project-6.svg" },
+      { title: "Ventanales corredizos línea europea", category: "ventanas", location: "Col. México Norte", image: "/assets/img/projects/project-1.svg" },
+      { title: "Portón automático y reja perimetral", category: "portones", location: "Fracc. Las Américas", image: "/assets/img/projects/project-2.svg" },
+      { title: "Fachada de aluminio y cristal para local", category: "puertas", location: "Col. Montes de Amé", image: "/assets/img/projects/project-3.svg" },
+      { title: "Pérgola de aluminio para terraza", category: "domos", location: "Temozón Norte", image: "/assets/img/projects/project-4.svg" },
+      { title: "Escalera y barandal de herrería", category: "herreria", location: "Col. Centro", image: "/assets/img/projects/project-5.svg" },
+      { title: "Cancel de baño en cristal templado", category: "canceles", location: "Fracc. Altabrisa", image: "/assets/img/projects/project-6.svg" },
     ],
   },
 
@@ -147,22 +152,22 @@ const site = {
     items: [
       {
         name: "María Fernanda López",
-        service: "Cocina integral",
-        text: "Nos hicieron la cocina completa en cedro. Cumplieron la fecha, el acabado es impecable y nos dejaron todo limpio. Totalmente recomendados.",
+        service: "Ventanas de aluminio",
+        text: "Cambiaron todas las ventanas de la casa por línea europea. Ya no entra polvo ni agua, cumplieron la fecha y dejaron todo limpio. Totalmente recomendados.",
         rating: 5,
         avatar: "/assets/img/testimonials/avatar-1.svg",
       },
       {
         name: "Carlos Canul",
         service: "Portón y reja",
-        text: "Cotizaron el mismo día de la visita y el portón quedó mejor de lo que esperaba. Muy buena comunicación durante todo el trabajo.",
+        text: "Cotizaron el mismo día de la visita y el portón automático quedó mejor de lo que esperaba. Muy buena comunicación durante todo el trabajo.",
         rating: 5,
         avatar: "/assets/img/testimonials/avatar-2.svg",
       },
       {
         name: "Ana Sosa",
-        service: "Ampliación de casa",
-        text: "Construyeron la segunda planta de nuestra casa. Nos mandaban fotos del avance cada semana y respetaron el presupuesto acordado.",
+        service: "Fachada comercial",
+        text: "Nos hicieron la fachada de cristal y la puerta de acceso de la tienda. Se ve moderna, mandaban fotos del avance y respetaron el presupuesto acordado.",
         rating: 5,
         avatar: "/assets/img/testimonials/avatar-3.svg",
       },
@@ -184,12 +189,12 @@ const site = {
 
   cta: {
     title: "¿Listo para empezar tu proyecto?",
-    text: "Agenda una visita sin costo. Medimos, cotizamos y te decimos cuándo lo entregamos.",
+    text: "Agenda una visita sin costo. Medimos, cotizamos y te decimos cuándo lo instalamos.",
   },
 
   footer: {
     about:
-      "Carpintería, herrería y construcción en Mérida, Yucatán. Trabajo a la medida con garantía por escrito.",
+      "Taller de aluminio, vidrio y herrería en Mérida, Yucatán. Fabricación e instalación a la medida con garantía por escrito.",
     links: [
       { label: "Nosotros", href: "#nosotros" },
       { label: "Proceso", href: "#proceso" },
@@ -197,7 +202,7 @@ const site = {
       { label: "Testimonios", href: "#testimonios" },
       { label: "Solicitar presupuesto", href: "#cotizar" },
     ],
-    copyright: `© ${new Date().getFullYear()} Taller Roble. Todos los derechos reservados.`,
+    copyright: `© ${new Date().getFullYear()} Taller de Herrería. Todos los derechos reservados.`,
     credit: { label: "Sitio por Ingeniatex", href: "https://ingeniatex.com" },
   },
 };

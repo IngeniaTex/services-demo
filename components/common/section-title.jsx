@@ -1,4 +1,4 @@
-// Encabezado de sección: etiqueta naranja + título. align: "center" | "left"
+// Encabezado de sección: etiqueta de color primario + título. align: "center" | "left"
 const SectionTitle = ({ subtitle, title, text, align = "center", light = false }) => {
   return (
     <div className={`section-title section-title--${align} ${light ? "section-title--light" : ""}`}>

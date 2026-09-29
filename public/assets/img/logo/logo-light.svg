@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345 64" width="345" height="64">
-  <rect x="0" y="4" width="56" height="56" rx="12" fill="#3E2A1E"/>
-  <path d="M14 46 L30 30 M27 26 l8 8 M23 22 l6-6 12 12-6 6z" stroke="#D9772B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <text x="68" y="34" font-family="Arial Narrow, Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="1" fill="#FFFFFF">TALLER ROBLE</text>
-  <text x="69" y="52" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.2" fill="#F4A261">CARPINTERÍA · HERRERÍA · OBRA</text>
+  <rect x="0" y="4" width="62" height="56" rx="12" fill="#1C2733" stroke="#2E3D4E" stroke-width="2"/>
+  <path d="M15 20 V48 M23 16 V48 M31 16 V48 M39 16 V48 M47 20 V48" stroke="#64B5F6" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <path d="M12 26 H50 M12 42 H50" stroke="#A9B8C8" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M15 13 l-3 5 h6z M23 9 l-3 5 h6z M31 9 l-3 5 h6z M39 9 l-3 5 h6z M47 13 l-3 5 h6z" fill="#64B5F6"/>
+  <text x="74" y="34" textLength="268" lengthAdjust="spacingAndGlyphs" font-family="Arial Narrow, Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">TALLER DE HERRERÍA</text>
+  <text x="75" y="52" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.2" fill="#64B5F6">ALUMINIO · HERRERÍA · VIDRIO</text>
 </svg>

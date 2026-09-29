@@ -2,7 +2,7 @@
   Oficios Landing — estilos
   Basado en las convenciones del sitio Ingeniatex (plantilla Bantec):
   BEM por sección, .section-padding, .subtitle-one, .btn-one/.btn-two/.btn-three,
-  .whatsapp-button, .scroll-up. Paleta café / naranja.
+  .whatsapp-button, .scroll-up. Paleta acero / azul industrial.
 --------------------------------------------------------------------------
   TABLA DE CONTENIDO
   * Variables (paleta y fuentes)
@@ -32,30 +32,30 @@
   --body-font: var(--font-body), "Barlow", "Segoe UI", sans-serif;
   --heading-font: var(--font-heading), "Barlow Condensed", "Arial Narrow", sans-serif;
 
-  /* Naranja (acción) */
-  --primary-color-1: #D9772B;
-  --primary-color-2: #B85F1B;
-  --primary-color-3: #F4A261;
-  --primary-soft: #FBE9D9;
+  /* Azul industrial (acción) */
+  --primary-color-1: #1976D2;
+  --primary-color-2: #0F5CAD;
+  --primary-color-3: #64B5F6;
+  --primary-soft: #E3F0FC;
 
-  /* Cafés (fondos oscuros, títulos, texto) */
-  --brown-900: #24170F;
-  --brown-800: #3E2A1E;
-  --brown-700: #5A3E2B;
-  --brown-500: #8B6244;
-  --brown-300: #C9A585;
+  /* Acero / grafito (fondos oscuros, títulos, texto) */
+  --steel-900: #0F1720;
+  --steel-800: #1C2733;
+  --steel-700: #2E3D4E;
+  --steel-500: #5C6F84;
+  --steel-300: #A9B8C8;
 
-  /* Cremas (fondos claros) */
-  --cream-100: #FBF7F2;
-  --cream-200: #F3E9DC;
-  --cream-300: #E8D8C4;
+  /* Aluminio / plata (fondos claros) */
+  --silver-100: #F5F7FA;
+  --silver-200: #E8EDF2;
+  --silver-300: #D5DDE6;
 
-  --text-heading-color: var(--brown-800);
-  --body-color: #4E3B2F;
-  --muted-color: #7C6656;
+  --text-heading-color: var(--steel-800);
+  --body-color: #36434F;
+  --muted-color: #66758A;
   --text-white: #FFFFFF;
   --bg-white: #FFFFFF;
-  --border-color-1: #E6D8C8;
+  --border-color-1: #DDE3EA;
   --whatsapp: #25D366;
   --whatsapp-dark: #1DA851;
   --star: #F2B233;
@@ -63,8 +63,8 @@
   --radius-sm: 8px;
   --radius: 14px;
   --radius-lg: 22px;
-  --box-shadow-1: 0 20px 60px rgba(62, 42, 30, 0.10);
-  --box-shadow-2: 0 10px 30px rgba(62, 42, 30, 0.08);
+  --box-shadow-1: 0 20px 60px rgba(28, 39, 51, 0.10);
+  --box-shadow-2: 0 10px 30px rgba(28, 39, 51, 0.08);
   --transition: all 0.3s ease;
   --header-offset: 100px;
 }
@@ -172,12 +172,12 @@ div[id] {
 
 /* Café oscuro sólido */
 .btn-two {
-  background: var(--brown-800);
+  background: var(--steel-800);
   color: var(--text-white);
 }
 
 .btn-two:hover {
-  background: var(--brown-900);
+  background: var(--steel-900);
   color: var(--text-white);
   transform: translateY(-2px);
 }
@@ -192,7 +192,7 @@ div[id] {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.4px;
-  color: var(--brown-800);
+  color: var(--steel-800);
 }
 
 .btn-three i {
@@ -298,7 +298,7 @@ div[id] {
 }
 
 .whatsapp-button--dark {
-  background: var(--brown-900);
+  background: var(--steel-900);
   color: var(--text-white);
 }
 
@@ -309,8 +309,8 @@ div[id] {
 
 .whatsapp-button--outline {
   background: transparent;
-  color: var(--brown-800);
-  border-color: var(--brown-300);
+  color: var(--steel-800);
+  border-color: var(--steel-300);
 }
 
 .whatsapp-button--outline i {
@@ -318,8 +318,8 @@ div[id] {
 }
 
 .whatsapp-button--outline:hover {
-  background: var(--brown-800);
-  border-color: var(--brown-800);
+  background: var(--steel-800);
+  border-color: var(--steel-800);
   color: var(--text-white);
 }
 
@@ -363,8 +363,8 @@ div[id] {
 }
 
 .header__top {
-  background: var(--brown-900);
-  color: var(--cream-300);
+  background: var(--steel-900);
+  color: var(--silver-300);
   font-size: 14px;
   transition: var(--transition);
   max-height: 60px;
@@ -397,7 +397,7 @@ div[id] {
 }
 
 .header__top-info a {
-  color: var(--cream-300);
+  color: var(--silver-300);
 }
 
 .header__top-info a:hover {
@@ -449,7 +449,7 @@ div[id] {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.4px;
-  color: var(--brown-800);
+  color: var(--steel-800);
 }
 
 .header__menu > ul > li > a i {
@@ -492,7 +492,7 @@ div[id] {
 
 .header__menu .sub-menu a:hover {
   color: var(--primary-color-1);
-  background: var(--cream-100);
+  background: var(--silver-100);
   padding-left: 28px;
 }
 
@@ -523,9 +523,9 @@ div[id] {
   width: 48px;
   height: 48px;
   border-radius: var(--radius-sm);
-  border: 2px solid var(--brown-800);
+  border: 2px solid var(--steel-800);
   background: transparent;
-  color: var(--brown-800);
+  color: var(--steel-800);
   font-size: 22px;
   display: inline-flex;
   align-items: center;
@@ -556,7 +556,7 @@ div[id] {
 .menu__overlay {
   position: fixed;
   inset: 0;
-  background: rgba(36, 23, 15, 0.6);
+  background: rgba(15, 23, 32, 0.6);
   z-index: 200;
   opacity: 0;
   visibility: hidden;
@@ -575,7 +575,7 @@ div[id] {
   width: 340px;
   max-width: 88vw;
   height: 100vh;
-  background: var(--brown-900);
+  background: var(--steel-900);
   z-index: 201;
   padding: 24px 28px 40px;
   overflow-y: auto;
@@ -631,7 +631,7 @@ div[id] {
   font-size: 21px;
   font-weight: 600;
   text-transform: uppercase;
-  color: var(--cream-200);
+  color: var(--silver-200);
 }
 
 .menu__bar-popup-nav-row > a:hover {
@@ -661,7 +661,7 @@ div[id] {
   display: block;
   padding: 8px 0;
   font-size: 16px;
-  color: var(--brown-300);
+  color: var(--steel-300);
 }
 
 .menu__bar-popup-sub a:hover {
@@ -679,7 +679,7 @@ div[id] {
   display: flex;
   align-items: center;
   gap: 10px;
-  color: var(--cream-200);
+  color: var(--silver-200);
   font-size: 15px;
 }
 
@@ -698,10 +698,10 @@ div[id] {
 .hero__area {
   position: relative;
   padding: 200px 0 150px;
-  background-color: var(--cream-100);
+  background-color: var(--silver-100);
   background-image:
-    radial-gradient(circle at 85% 15%, rgba(217, 119, 43, 0.14) 0, transparent 38%),
-    repeating-linear-gradient(135deg, transparent 0 22px, rgba(139, 98, 68, 0.05) 22px 23px);
+    radial-gradient(circle at 85% 15%, rgba(25, 118, 210, 0.14) 0, transparent 38%),
+    repeating-linear-gradient(135deg, transparent 0 22px, rgba(92, 111, 132, 0.05) 22px 23px);
   overflow: hidden;
 }
 
@@ -738,7 +738,7 @@ div[id] {
 }
 
 .hero__content-rating strong {
-  color: var(--brown-800);
+  color: var(--steel-800);
   font-size: 17px;
 }
 
@@ -776,7 +776,7 @@ div[id] {
   z-index: 2;
   left: -20px;
   bottom: 34px;
-  background: var(--brown-800);
+  background: var(--steel-800);
   color: var(--text-white);
   padding: 18px 26px;
   border-radius: var(--radius);
@@ -930,7 +930,7 @@ div[id] {
   align-items: flex-start;
   gap: 10px;
   font-weight: 500;
-  color: var(--brown-800);
+  color: var(--steel-800);
 }
 
 .about__content-list i {
@@ -956,7 +956,7 @@ div[id] {
 .about__content-owner strong {
   font-family: var(--heading-font);
   font-size: 22px;
-  color: var(--brown-800);
+  color: var(--steel-800);
 }
 
 .about__content-owner span {
@@ -968,10 +968,10 @@ div[id] {
 * Proceso
 ==========================================================================*/
 .process__area {
-  background-color: var(--brown-900);
+  background-color: var(--steel-900);
   background-image:
-    radial-gradient(circle at 10% 10%, rgba(217, 119, 43, 0.18) 0, transparent 40%),
-    radial-gradient(circle at 90% 90%, rgba(217, 119, 43, 0.12) 0, transparent 40%);
+    radial-gradient(circle at 10% 10%, rgba(25, 118, 210, 0.18) 0, transparent 40%),
+    radial-gradient(circle at 90% 90%, rgba(25, 118, 210, 0.12) 0, transparent 40%);
 }
 
 .process__card {
@@ -1020,7 +1020,7 @@ div[id] {
 }
 
 .process__card p {
-  color: var(--brown-300);
+  color: var(--steel-300);
   margin: 0;
   font-size: 16px;
 }
@@ -1029,7 +1029,7 @@ div[id] {
 * Servicios
 ==========================================================================*/
 .services__area {
-  background: var(--cream-100);
+  background: var(--silver-100);
 }
 
 .services__card {
@@ -1103,7 +1103,7 @@ div[id] {
   gap: 10px;
   padding: 6px 0;
   font-size: 15px;
-  color: var(--brown-700);
+  color: var(--steel-700);
   border-bottom: 1px dashed var(--border-color-1);
 }
 
@@ -1135,7 +1135,7 @@ div[id] {
   bottom: 0;
   left: 30px;
   right: 30px;
-  background: var(--brown-800);
+  background: var(--steel-800);
   color: var(--text-white);
   border-radius: var(--radius);
   padding: 18px 26px;
@@ -1167,7 +1167,7 @@ div[id] {
   gap: 16px;
   padding: 22px;
   border-radius: var(--radius);
-  background: var(--cream-100);
+  background: var(--silver-100);
   border: 1px solid transparent;
   height: 100%;
   transition: var(--transition);
@@ -1206,7 +1206,7 @@ div[id] {
 * Proyectos
 ==========================================================================*/
 .projects__area {
-  background: var(--cream-200);
+  background: var(--silver-200);
 }
 
 .projects__filter {
@@ -1225,16 +1225,16 @@ div[id] {
   letter-spacing: 0.4px;
   padding: 9px 22px;
   border-radius: 50px;
-  border: 2px solid var(--brown-300);
+  border: 2px solid var(--steel-300);
   background: transparent;
-  color: var(--brown-700);
+  color: var(--steel-700);
   transition: var(--transition);
 }
 
 .projects__filter button:hover,
 .projects__filter button.active {
-  background: var(--brown-800);
-  border-color: var(--brown-800);
+  background: var(--steel-800);
+  border-color: var(--steel-800);
   color: var(--text-white);
 }
 
@@ -1263,7 +1263,7 @@ div[id] {
   right: 0;
   bottom: 0;
   padding: 60px 24px 22px;
-  background: linear-gradient(to top, rgba(36, 23, 15, 0.95), rgba(36, 23, 15, 0));
+  background: linear-gradient(to top, rgba(15, 23, 32, 0.95), rgba(15, 23, 32, 0));
   color: var(--text-white);
 }
 
@@ -1287,7 +1287,7 @@ div[id] {
 .projects__card-overlay p {
   margin: 0;
   font-size: 14px;
-  color: var(--brown-300);
+  color: var(--steel-300);
   display: flex;
   align-items: center;
   gap: 6px;
@@ -1362,7 +1362,7 @@ div[id] {
 * Cotización
 ==========================================================================*/
 .quote__area {
-  background: var(--cream-100);
+  background: var(--silver-100);
 }
 
 .quote__card {
@@ -1391,7 +1391,7 @@ div[id] {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.6px;
-  color: var(--brown-700);
+  color: var(--steel-700);
   margin-bottom: 8px;
 }
 
@@ -1401,8 +1401,8 @@ div[id] {
   width: 100%;
   font-family: var(--body-font);
   font-size: 16px;
-  color: var(--brown-800);
-  background: var(--cream-100);
+  color: var(--steel-800);
+  background: var(--silver-100);
   border: 2px solid var(--border-color-1);
   border-radius: var(--radius-sm);
   padding: 14px 18px;
@@ -1423,7 +1423,7 @@ div[id] {
 }
 
 .quote__field ::placeholder {
-  color: #A8927F;
+  color: #8C9AAB;
 }
 
 .quote__select {
@@ -1472,8 +1472,8 @@ div[id] {
 
 .quote__aside {
   height: 100%;
-  background: var(--brown-900);
-  color: var(--cream-200);
+  background: var(--steel-900);
+  color: var(--silver-200);
   border-radius: var(--radius-lg);
   padding: 40px 34px;
 }
@@ -1483,7 +1483,7 @@ div[id] {
 }
 
 .quote__aside > p {
-  color: var(--brown-300);
+  color: var(--steel-300);
   margin-bottom: 24px;
 }
 
@@ -1518,7 +1518,7 @@ div[id] {
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 0.8px;
-  color: var(--brown-300);
+  color: var(--steel-300);
 }
 
 .quote__aside-list strong,
@@ -1585,8 +1585,8 @@ div[id] {
 * Footer
 ==========================================================================*/
 .footer__area {
-  background: var(--brown-900);
-  color: var(--brown-300);
+  background: var(--steel-900);
+  color: var(--steel-300);
   padding-top: 90px;
 }
 
@@ -1631,7 +1631,7 @@ div[id] {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  color: var(--brown-300);
+  color: var(--steel-300);
   font-size: 16px;
 }
 
@@ -1660,7 +1660,7 @@ div[id] {
 }
 
 .footer__contact a {
-  color: var(--brown-300);
+  color: var(--steel-300);
 }
 
 .footer__contact a:hover {
@@ -1687,7 +1687,7 @@ div[id] {
 }
 
 .footer__copyright a {
-  color: var(--brown-300);
+  color: var(--steel-300);
 }
 
 .footer__copyright a:hover {
@@ -1733,7 +1733,7 @@ div[id] {
   height: 50px;
   border-radius: 50%;
   border: none;
-  background: var(--brown-800);
+  background: var(--steel-800);
   color: var(--text-white);
   font-size: 18px;
   display: inline-flex;

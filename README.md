@@ -1,11 +1,11 @@
 # Oficios Landing – Next.js
 
 Plantilla de landing page (una sola página) para negocios de **oficios y construcción**: carpintería,
-herrería, albañilería, remodelación, aluminio y vidrio, mantenimiento, etc. Paleta en tonos **café y
-naranja**. Derivada del sitio de **Ingeniatex** (Next.js 14 App Router, JavaScript, Bootstrap 5) y
+herrería, albañilería, remodelación, aluminio y vidrio, mantenimiento, etc. Paleta en tonos **acero y
+azul industrial**. Derivada del sitio de **Ingeniatex** (Next.js 14 App Router, JavaScript, Bootstrap 5) y
 reducida a las secciones que convierten en este giro.
 
-El demo viene precargado con un negocio ficticio (**Taller Roble**, Mérida, Yucatán).
+El demo viene precargado con un negocio ficticio (**Taller de Herrería**, taller de aluminio y herrería en Mérida, Yucatán).
 
 | Sección | Ancla | Componente |
 |---|---|---|
@@ -35,7 +35,7 @@ botón "volver arriba".
    `projects/`, `testimonials/`). Sustitúyelas por fotos reales (jpg/webp) y actualiza las rutas en
    `site.jsx`. Tamaños sugeridos: hero 800×960, nosotros 800×640 y 600×600, proyectos 800×600.
 4. **Paleta** – todos los colores están en las variables `:root` al inicio de
-   `public/assets/css/style.css`. Cambia `--primary-color-1` (naranja) y `--brown-*` (cafés) para
+   `public/assets/css/style.css`. Cambia `--primary-color-1` (azul) y `--steel-*` (acero) para
    adaptar el sitio a otro rubro sin tocar el resto del CSS.
 5. **Mapa** – en Google Maps: Compartir → Insertar un mapa → copia el `src` del iframe en
    `contact.mapEmbed`. Vacío = no se muestra.

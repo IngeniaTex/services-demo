@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#6B4A32"/>
-      <stop offset="1" stop-color="#2B1B12"/>
+      <stop offset="0" stop-color="#3A4B5E"/>
+      <stop offset="1" stop-color="#141E29"/>
     </linearGradient>
   </defs>
   <rect width="800" height="600" fill="url(#g)"/>
@@ -20,9 +20,9 @@
 <path d="M0 498 Q 67 512 133 498 Q 200 512 267 498 Q 333 484 400 498 Q 467 484 533 498 Q 600 484 667 498 Q 733 512 800 498 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.1"/>
 <path d="M0 531 Q 67 516 133 531 Q 200 545 267 531 Q 333 516 400 531 Q 467 516 533 531 Q 600 516 667 531 Q 733 545 800 531 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
 <path d="M0 572 Q 67 581 133 572 Q 200 563 267 572 Q 333 581 400 572 Q 467 563 533 572 Q 600 581 667 572 Q 733 563 800 572 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
-  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#1976D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
     <path d="M-80 0 h160 v20 a40 40 0 0 1 -40 40 h-80 a40 40 0 0 1 -40 -40z"/><path d="M-60 0 v-60 a20 20 0 0 1 40 0"/><path d="M-60 60 v15 M60 60 v15"/>
   </g>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">BAÑO REMODELADO</text>
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#E8EDF2" letter-spacing="2">CANCEL DE BAÑO</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A9B8C8">Reemplaza esta imagen · 800×600</text>
 </svg>

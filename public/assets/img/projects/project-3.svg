@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#6B4A32"/>
-      <stop offset="1" stop-color="#2B1B12"/>
+      <stop offset="0" stop-color="#3A4B5E"/>
+      <stop offset="1" stop-color="#141E29"/>
     </linearGradient>
   </defs>
   <rect width="800" height="600" fill="url(#g)"/>
@@ -20,9 +20,9 @@
 <path d="M0 496 Q 67 481 133 496 Q 200 512 267 496 Q 333 481 400 496 Q 467 512 533 496 Q 600 512 667 496 Q 733 512 800 496 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.9"/>
 <path d="M0 540 Q 67 563 133 540 Q 200 518 267 540 Q 333 518 400 540 Q 467 563 533 540 Q 600 563 667 540 Q 733 518 800 540 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
 <path d="M0 590 Q 67 605 133 590 Q 200 575 267 590 Q 333 575 400 590 Q 467 605 533 590 Q 600 575 667 590 Q 733 605 800 590 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
-  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#1976D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
     <rect x="-80" y="-60" width="160" height="120" rx="6"/><path d="M-80 -20 h160 M-80 20 h160 M-30 -60 v40 M30 -20 v40 M-30 20 v40"/>
   </g>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">AMPLIACIÓN</text>
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#E8EDF2" letter-spacing="2">FACHADA DE CRISTAL</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A9B8C8">Reemplaza esta imagen · 800×600</text>
 </svg>

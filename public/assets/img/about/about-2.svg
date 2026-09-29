@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#D9772B"/>
-      <stop offset="1" stop-color="#8B4A1B"/>
+      <stop offset="0" stop-color="#1976D2"/>
+      <stop offset="1" stop-color="#0F5CAD"/>
     </linearGradient>
   </defs>
   <rect width="600" height="600" fill="url(#g)"/>
@@ -20,9 +20,9 @@
 <path d="M0 493 Q 50 477 100 493 Q 150 509 200 493 Q 250 509 300 493 Q 350 477 400 493 Q 450 509 500 493 Q 550 477 600 493 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
 <path d="M0 539 Q 50 553 100 539 Q 150 553 200 539 Q 250 553 300 539 Q 350 524 400 539 Q 450 524 500 539 Q 550 524 600 539 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
 <path d="M0 573 Q 50 587 100 573 Q 150 558 200 573 Q 250 587 300 573 Q 350 558 400 573 Q 450 587 500 573 Q 550 587 600 573 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.6"/>
-  <g transform="translate(300 278) scale(0.750)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(300 278) scale(0.750)" fill="none" stroke="#1976D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
     <path d="M-80 30 h160"/><path d="M-60 30 a60 60 0 0 1 120 0"/><path d="M0 -30 v-25"/><path d="M-20 -25 h40"/>
   </g>
-  <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#F3E9DC" letter-spacing="2">EN OBRA</text>
-  <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#C9A585">Reemplaza esta imagen · 600×600</text>
+  <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#E8EDF2" letter-spacing="2">INSTALACIÓN</text>
+  <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#A9B8C8">Reemplaza esta imagen · 600×600</text>
 </svg>
