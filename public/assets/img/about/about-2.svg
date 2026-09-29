@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D9772B"/>
+      <stop offset="1" stop-color="#8B4A1B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <path d="M0 15 Q 50 31 100 15 Q 150 31 200 15 Q 250 -1 300 15 Q 350 -1 400 15 Q 450 31 500 15 Q 550 31 600 15 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.9"/>
+<path d="M0 57 Q 50 76 100 57 Q 150 76 200 57 Q 250 38 300 57 Q 350 38 400 57 Q 450 38 500 57 Q 550 76 600 57 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.4"/>
+<path d="M0 111 Q 50 104 100 111 Q 150 118 200 111 Q 250 104 300 111 Q 350 118 400 111 Q 450 118 500 111 Q 550 118 600 111 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.3"/>
+<path d="M0 160 Q 50 173 100 160 Q 150 147 200 160 Q 250 173 300 160 Q 350 147 400 160 Q 450 147 500 160 Q 550 147 600 160 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
+<path d="M0 187 Q 50 205 100 187 Q 150 205 200 187 Q 250 205 300 187 Q 350 205 400 187 Q 450 205 500 187 Q 550 169 600 187 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.8"/>
+<path d="M0 240 Q 50 263 100 240 Q 150 217 200 240 Q 250 263 300 240 Q 350 217 400 240 Q 450 217 500 240 Q 550 263 600 240 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.2"/>
+<path d="M0 268 Q 50 289 100 268 Q 150 247 200 268 Q 250 289 300 268 Q 350 247 400 268 Q 450 289 500 268 Q 550 247 600 268 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.6"/>
+<path d="M0 320 Q 50 306 100 320 Q 150 306 200 320 Q 250 306 300 320 Q 350 333 400 320 Q 450 333 500 320 Q 550 333 600 320 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
+<path d="M0 376 Q 50 365 100 376 Q 150 365 200 376 Q 250 365 300 376 Q 350 365 400 376 Q 450 388 500 376 Q 550 388 600 376 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.0"/>
+<path d="M0 399 Q 50 406 100 399 Q 150 406 200 399 Q 250 406 300 399 Q 350 392 400 399 Q 450 406 500 399 Q 550 406 600 399 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
+<path d="M0 450 Q 50 433 100 450 Q 150 468 200 450 Q 250 468 300 450 Q 350 433 400 450 Q 450 468 500 450 Q 550 468 600 450 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 493 Q 50 477 100 493 Q 150 509 200 493 Q 250 509 300 493 Q 350 477 400 493 Q 450 509 500 493 Q 550 477 600 493 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 539 Q 50 553 100 539 Q 150 553 200 539 Q 250 553 300 539 Q 350 524 400 539 Q 450 524 500 539 Q 550 524 600 539 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 573 Q 50 587 100 573 Q 150 558 200 573 Q 250 587 300 573 Q 350 558 400 573 Q 450 587 500 573 Q 550 587 600 573 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.6"/>
+  <g transform="translate(300 278) scale(0.750)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-80 30 h160"/><path d="M-60 30 a60 60 0 0 1 120 0"/><path d="M0 -30 v-25"/><path d="M-20 -25 h40"/>
+  </g>
+  <text x="300" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#F3E9DC" letter-spacing="2">EN OBRA</text>
+  <text x="300" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#C9A585">Reemplaza esta imagen · 600×600</text>
+</svg>

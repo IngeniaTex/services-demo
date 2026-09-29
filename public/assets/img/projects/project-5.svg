@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B6244"/>
+      <stop offset="1" stop-color="#3E2A1E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M0 33 Q 67 26 133 33 Q 200 26 267 33 Q 333 26 400 33 Q 467 26 533 33 Q 600 26 667 33 Q 733 26 800 33 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.6"/>
+<path d="M0 76 Q 67 87 133 76 Q 200 87 267 76 Q 333 87 400 76 Q 467 87 533 76 Q 600 87 667 76 Q 733 87 800 76 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.4"/>
+<path d="M0 118 Q 67 127 133 118 Q 200 127 267 118 Q 333 108 400 118 Q 467 127 533 118 Q 600 127 667 118 Q 733 108 800 118 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.9"/>
+<path d="M0 158 Q 67 173 133 158 Q 200 173 267 158 Q 333 173 400 158 Q 467 173 533 158 Q 600 173 667 158 Q 733 173 800 158 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.4"/>
+<path d="M0 200 Q 67 193 133 200 Q 200 193 267 200 Q 333 193 400 200 Q 467 193 533 200 Q 600 193 667 200 Q 733 207 800 200 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
+<path d="M0 227 Q 67 206 133 227 Q 200 249 267 227 Q 333 206 400 227 Q 467 206 533 227 Q 600 249 667 227 Q 733 249 800 227 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.5"/>
+<path d="M0 279 Q 67 288 133 279 Q 200 269 267 279 Q 333 269 400 279 Q 467 288 533 279 Q 600 288 667 279 Q 733 269 800 279 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.6"/>
+<path d="M0 317 Q 67 339 133 317 Q 200 339 267 317 Q 333 295 400 317 Q 467 339 533 317 Q 600 339 667 317 Q 733 295 800 317 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.8"/>
+<path d="M0 364 Q 67 377 133 364 Q 200 351 267 364 Q 333 377 400 364 Q 467 351 533 364 Q 600 351 667 364 Q 733 377 800 364 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
+<path d="M0 418 Q 67 427 133 418 Q 200 427 267 418 Q 333 427 400 418 Q 467 409 533 418 Q 600 409 667 418 Q 733 427 800 418 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.6"/>
+<path d="M0 452 Q 67 466 133 452 Q 200 466 267 452 Q 333 437 400 452 Q 467 437 533 452 Q 600 437 667 452 Q 733 466 800 452 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.4"/>
+<path d="M0 501 Q 67 487 133 501 Q 200 515 267 501 Q 333 515 400 501 Q 467 515 533 501 Q 600 487 667 501 Q 733 515 800 501 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
+<path d="M0 545 Q 67 551 133 545 Q 200 551 267 545 Q 333 539 400 545 Q 467 539 533 545 Q 600 551 667 545 Q 733 539 800 545 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
+<path d="M0 579 Q 67 567 133 579 Q 200 591 267 579 Q 333 591 400 579 Q 467 591 533 579 Q 600 567 667 579 Q 733 591 800 579 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.3"/>
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-80 70 h40 v-35 h40 v-35 h40 v-35 h40"/><path d="M-80 70 v-30 M80 -35 v-40"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">ESCALERA</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+</svg>

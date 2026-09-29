@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5A3E2B"/>
+      <stop offset="1" stop-color="#24170F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M0 20 Q 67 36 133 20 Q 200 36 267 20 Q 333 4 400 20 Q 467 4 533 20 Q 600 36 667 20 Q 733 4 800 20 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 60 Q 67 52 133 60 Q 200 67 267 60 Q 333 67 400 60 Q 467 52 533 60 Q 600 52 667 60 Q 733 52 800 60 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.6"/>
+<path d="M0 100 Q 67 89 133 100 Q 200 110 267 100 Q 333 110 400 100 Q 467 110 533 100 Q 600 89 667 100 Q 733 89 800 100 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.1"/>
+<path d="M0 150 Q 67 168 133 150 Q 200 168 267 150 Q 333 168 400 150 Q 467 132 533 150 Q 600 168 667 150 Q 733 168 800 150 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.4"/>
+<path d="M0 193 Q 67 187 133 193 Q 200 200 267 193 Q 333 187 400 193 Q 467 200 533 193 Q 600 200 667 193 Q 733 187 800 193 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 244 Q 67 238 133 244 Q 200 238 267 244 Q 333 250 400 244 Q 467 250 533 244 Q 600 250 667 244 Q 733 250 800 244 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 282 Q 67 302 133 282 Q 200 302 267 282 Q 333 262 400 282 Q 467 302 533 282 Q 600 302 667 282 Q 733 262 800 282 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 328 Q 67 319 133 328 Q 200 319 267 328 Q 333 319 400 328 Q 467 319 533 328 Q 600 336 667 328 Q 733 336 800 328 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.9"/>
+<path d="M0 366 Q 67 352 133 366 Q 200 352 267 366 Q 333 380 400 366 Q 467 380 533 366 Q 600 352 667 366 Q 733 380 800 366 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
+<path d="M0 400 Q 67 411 133 400 Q 200 389 267 400 Q 333 389 400 400 Q 467 389 533 400 Q 600 411 667 400 Q 733 389 800 400 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.6"/>
+<path d="M0 442 Q 67 428 133 442 Q 200 455 267 442 Q 333 455 400 442 Q 467 455 533 442 Q 600 428 667 442 Q 733 428 800 442 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 495 Q 67 505 133 495 Q 200 505 267 495 Q 333 505 400 495 Q 467 484 533 495 Q 600 505 667 495 Q 733 484 800 495 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
+<path d="M0 528 Q 67 519 133 528 Q 200 519 267 528 Q 333 519 400 528 Q 467 519 533 528 Q 600 519 667 528 Q 733 537 800 528 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
+<path d="M0 581 Q 67 567 133 581 Q 200 567 267 581 Q 333 567 400 581 Q 467 595 533 581 Q 600 567 667 581 Q 733 595 800 581 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.1"/>
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-70" y="-80" width="140" height="160" rx="6"/><path d="M0 -80 v160"/><circle cx="-10" cy="0" r="4" fill="#D9772B" stroke="none"/><circle cx="10" cy="0" r="4" fill="#D9772B" stroke="none"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">COCINA EN CEDRO</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+</svg>

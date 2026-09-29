@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6B4A32"/>
+      <stop offset="1" stop-color="#2B1B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M0 18 Q 67 33 133 18 Q 200 3 267 18 Q 333 33 400 18 Q 467 3 533 18 Q 600 33 667 18 Q 733 33 800 18 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.1"/>
+<path d="M0 58 Q 67 69 133 58 Q 200 46 267 58 Q 333 69 400 58 Q 467 46 533 58 Q 600 46 667 58 Q 733 69 800 58 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.6"/>
+<path d="M0 99 Q 67 82 133 99 Q 200 116 267 99 Q 333 116 400 99 Q 467 116 533 99 Q 600 82 667 99 Q 733 116 800 99 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.4"/>
+<path d="M0 148 Q 67 156 133 148 Q 200 156 267 148 Q 333 141 400 148 Q 467 156 533 148 Q 600 141 667 148 Q 733 156 800 148 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 201 Q 67 221 133 201 Q 200 181 267 201 Q 333 221 400 201 Q 467 181 533 201 Q 600 221 667 201 Q 733 221 800 201 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.3"/>
+<path d="M0 235 Q 67 244 133 235 Q 200 226 267 235 Q 333 244 400 235 Q 467 244 533 235 Q 600 226 667 235 Q 733 244 800 235 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.2"/>
+<path d="M0 270 Q 67 249 133 270 Q 200 291 267 270 Q 333 249 400 270 Q 467 249 533 270 Q 600 249 667 270 Q 733 291 800 270 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.7"/>
+<path d="M0 310 Q 67 317 133 310 Q 200 317 267 310 Q 333 317 400 310 Q 467 303 533 310 Q 600 303 667 310 Q 733 317 800 310 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.8"/>
+<path d="M0 355 Q 67 346 133 355 Q 200 363 267 355 Q 333 346 400 355 Q 467 346 533 355 Q 600 346 667 355 Q 733 363 800 355 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.9"/>
+<path d="M0 410 Q 67 400 133 410 Q 200 400 267 410 Q 333 400 400 410 Q 467 400 533 410 Q 600 400 667 410 Q 733 400 800 410 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.1"/>
+<path d="M0 444 Q 67 458 133 444 Q 200 458 267 444 Q 333 458 400 444 Q 467 458 533 444 Q 600 458 667 444 Q 733 431 800 444 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.6"/>
+<path d="M0 498 Q 67 512 133 498 Q 200 512 267 498 Q 333 484 400 498 Q 467 484 533 498 Q 600 484 667 498 Q 733 512 800 498 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.1"/>
+<path d="M0 531 Q 67 516 133 531 Q 200 545 267 531 Q 333 516 400 531 Q 467 516 533 531 Q 600 516 667 531 Q 733 545 800 531 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
+<path d="M0 572 Q 67 581 133 572 Q 200 563 267 572 Q 333 581 400 572 Q 467 563 533 572 Q 600 581 667 572 Q 733 563 800 572 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.7"/>
+  <g transform="translate(400 270) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-80 0 h160 v20 a40 40 0 0 1 -40 40 h-80 a40 40 0 0 1 -40 -40z"/><path d="M-60 0 v-60 a20 20 0 0 1 40 0"/><path d="M-60 60 v15 M60 60 v15"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">BAÑO REMODELADO</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×600</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="800" height="640">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6B4A32"/>
+      <stop offset="1" stop-color="#2B1B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#g)"/>
+  <path d="M0 35 Q 67 10 133 35 Q 200 10 267 35 Q 333 10 400 35 Q 467 59 533 35 Q 600 10 667 35 Q 733 59 800 35 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.1"/>
+<path d="M0 61 Q 67 54 133 61 Q 200 68 267 61 Q 333 68 400 61 Q 467 68 533 61 Q 600 68 667 61 Q 733 68 800 61 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.8"/>
+<path d="M0 124 Q 67 137 133 124 Q 200 137 267 124 Q 333 137 400 124 Q 467 110 533 124 Q 600 110 667 124 Q 733 110 800 124 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.1"/>
+<path d="M0 152 Q 67 161 133 152 Q 200 142 267 152 Q 333 161 400 152 Q 467 161 533 152 Q 600 161 667 152 Q 733 161 800 152 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.4"/>
+<path d="M0 215 Q 67 230 133 215 Q 200 230 267 215 Q 333 200 400 215 Q 467 230 533 215 Q 600 230 667 215 Q 733 230 800 215 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
+<path d="M0 260 Q 67 273 133 260 Q 200 273 267 260 Q 333 273 400 260 Q 467 273 533 260 Q 600 273 667 260 Q 733 247 800 260 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.9"/>
+<path d="M0 305 Q 67 328 133 305 Q 200 328 267 305 Q 333 328 400 305 Q 467 328 533 305 Q 600 328 667 305 Q 733 328 800 305 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.3"/>
+<path d="M0 343 Q 67 329 133 343 Q 200 356 267 343 Q 333 329 400 343 Q 467 329 533 343 Q 600 329 667 343 Q 733 329 800 343 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.9"/>
+<path d="M0 377 Q 67 359 133 377 Q 200 359 267 377 Q 333 395 400 377 Q 467 359 533 377 Q 600 359 667 377 Q 733 359 800 377 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
+<path d="M0 440 Q 67 447 133 440 Q 200 447 267 440 Q 333 433 400 440 Q 467 433 533 440 Q 600 433 667 440 Q 733 433 800 440 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.8"/>
+<path d="M0 469 Q 67 462 133 469 Q 200 476 267 469 Q 333 476 400 469 Q 467 462 533 469 Q 600 462 667 469 Q 733 462 800 469 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
+<path d="M0 513 Q 67 495 133 513 Q 200 495 267 513 Q 333 495 400 513 Q 467 495 533 513 Q 600 531 667 513 Q 733 495 800 513 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.2"/>
+<path d="M0 571 Q 67 559 133 571 Q 200 583 267 571 Q 333 583 400 571 Q 467 559 533 571 Q 600 583 667 571 Q 733 559 800 571 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 622 Q 67 599 133 622 Q 200 644 267 622 Q 333 599 400 622 Q 467 644 533 622 Q 600 644 667 622 Q 733 644 800 622 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.9"/>
+  <g transform="translate(400 290) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-80 20 h110 l-10 -50 h-100z"/><path d="M-80 20 l10 14 10-14 10 14 10-14 10 14 10-14 10 14 10-14 10 14 10-14"/><path d="M30 -30 h40 v50 h-40"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">NUESTRO TALLER</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×640</text>
+</svg>

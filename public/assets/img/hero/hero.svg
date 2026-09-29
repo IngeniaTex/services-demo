@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" width="800" height="960">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B6244"/>
+      <stop offset="1" stop-color="#3E2A1E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="960" fill="url(#g)"/>
+  <path d="M0 20 Q 67 -14 133 20 Q 200 54 267 20 Q 333 -14 400 20 Q 467 54 533 20 Q 600 54 667 20 Q 733 54 800 20 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.1"/>
+<path d="M0 114 Q 67 102 133 114 Q 200 126 267 114 Q 333 126 400 114 Q 467 102 533 114 Q 600 126 667 114 Q 733 126 800 114 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.3"/>
+<path d="M0 161 Q 67 198 133 161 Q 200 124 267 161 Q 333 124 400 161 Q 467 124 533 161 Q 600 124 667 161 Q 733 198 800 161 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.2"/>
+<path d="M0 258 Q 67 228 133 258 Q 200 289 267 258 Q 333 289 400 258 Q 467 228 533 258 Q 600 289 667 258 Q 733 228 800 258 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.2"/>
+<path d="M0 319 Q 67 282 133 319 Q 200 356 267 319 Q 333 282 400 319 Q 467 282 533 319 Q 600 356 667 319 Q 733 282 800 319 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.4"/>
+<path d="M0 392 Q 67 430 133 392 Q 200 355 267 392 Q 333 430 400 392 Q 467 430 533 392 Q 600 430 667 392 Q 733 430 800 392 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.0"/>
+<path d="M0 428 Q 67 444 133 428 Q 200 444 267 428 Q 333 411 400 428 Q 467 444 533 428 Q 600 444 667 428 Q 733 411 800 428 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
+<path d="M0 515 Q 67 547 133 515 Q 200 547 267 515 Q 333 547 400 515 Q 467 483 533 515 Q 600 547 667 515 Q 733 483 800 515 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.3"/>
+<path d="M0 596 Q 67 624 133 596 Q 200 569 267 596 Q 333 569 400 596 Q 467 569 533 596 Q 600 569 667 596 Q 733 569 800 596 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.8"/>
+<path d="M0 665 Q 67 682 133 665 Q 200 682 267 665 Q 333 682 400 665 Q 467 682 533 665 Q 600 649 667 665 Q 733 682 800 665 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3.5"/>
+<path d="M0 732 Q 67 697 133 732 Q 200 697 267 732 Q 333 767 400 732 Q 467 697 533 732 Q 600 767 667 732 Q 733 767 800 732 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.9"/>
+<path d="M0 777 Q 67 801 133 777 Q 200 801 267 777 Q 333 801 400 777 Q 467 801 533 777 Q 600 753 667 777 Q 733 801 800 777 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.6"/>
+<path d="M0 839 Q 67 823 133 839 Q 200 823 267 839 Q 333 823 400 839 Q 467 855 533 839 Q 600 823 667 839 Q 733 823 800 839 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.7"/>
+<path d="M0 907 Q 67 917 133 907 Q 200 897 267 907 Q 333 917 400 907 Q 467 897 533 907 Q 600 897 667 907 Q 733 917 800 907 " fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2.2"/>
+  <g transform="translate(400 450) scale(1.000)" fill="none" stroke="#D9772B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-60 70 L10 0"/><path d="M-5 -15 l30 30"/><path d="M-15 -45 l30-30 45 45-30 30z"/>
+  </g>
+  <text x="400" y="600" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F3E9DC" letter-spacing="2">FOTO PRINCIPAL</text>
+  <text x="400" y="640" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C9A585">Reemplaza esta imagen · 800×960</text>
+</svg>
